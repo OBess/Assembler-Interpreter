@@ -1,0 +1,2 @@
+E:\Projects\Cpp\AssemblerCompiler\AssemblerCompiler\Debug\AssemblerCompiler.exe
+E:\Projects\Cpp\AssemblerCompiler\AssemblerCompiler\Debug\AssemblerCompiler.pdb
