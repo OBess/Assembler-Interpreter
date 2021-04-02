@@ -1,3 +1,0 @@
-﻿  AssemblerCompiler.cpp
-E:\Projects\Cpp\AssemblerCompiler\AssemblerCompiler\AssemblerCompiler.cpp(55,47): warning C4244: аргумент: преобразование "std::streamoff" в "const unsigned int", возможна потеря данных
-  AssemblerCompiler.vcxproj -> E:\Projects\Cpp\AssemblerCompiler\AssemblerCompiler\Debug\AssemblerCompiler.exe
