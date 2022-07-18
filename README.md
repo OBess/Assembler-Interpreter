@@ -1,2 +1,2 @@
 # Assembler-Interpreter
-Small ASM Interpreter
+Simple ASM Interpreter
